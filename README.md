@@ -282,7 +282,7 @@
 
     - 原理
       - [NLP 秒懂词向量Word2vec的本质](https://zhuanlan.zhihu.com/p/26306795)
-      - Word2Vec中的数学原理详解https://www.cnblogs.com/peghoty/p/3857839.html
+      - [Word2Vec中的数学原理详解](https://www.cnblogs.com/peghoty/p/3857839.html)
       - [一篇通俗易懂的word2vec](https://zhuanlan.zhihu.com/p/35500923)
       - [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)
       - [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
